@@ -1,6 +1,6 @@
 # Diana Gualteros
 
-Desarrolladora de software | Java | Spring Boot | Git | GitHub
+Desarrolladora de software | Java | Spring Boot | PHP | Laravel | Python | Django | .NET | C# | React | Javascript | Git | GitHub
 
 ## Proyectos
 
@@ -10,7 +10,7 @@ Desarrolladora de software | Java | Spring Boot | Git | GitHub
 
 Themis es un proyecto desarrollado durante mi formación en **Análisis y Desarrollo de Software (ADSO)**. Su propósito es apoyar la gestión y organización de los diferentes procesos relacionados con comités, centralizando información y facilitando el seguimiento de las actividades que hacen parte del proceso.
 
-Durante su desarrollo he trabajado principalmente en la construcción de servicios, lógica de negocio, comunicación entre componentes y manejo de información mediante APIs. El proyecto también me ha permitido trabajar con tecnologías y conceptos relacionados con **Spring Boot, Angular y GraphQL**.
+Durante su desarrollo he trabajado principalmente en la construcción de servicios, lógica de negocio, comunicación entre componentes y manejo de información mediante APIs. El proyecto también me ha permitido trabajar con tecnologías y conceptos relacionados con **Spring Boot, Next.js y GraphQL**.
 
 **Estado:** En desarrollo
 
@@ -50,7 +50,7 @@ Actualmente se encuentra en fase de análisis y diseño, por lo que el trabajo s
 
 El repositorio contiene la configuración inicial del proyecto y la estructura proporcionada por las tecnologías seleccionadas. El objetivo es utilizar esta base para desarrollar posteriormente una solución organizada, escalable y orientada a las necesidades del sistema de historias clínicas.
 
-*Tecnologías iniciales: Java · Angular
+*Tecnologías iniciales: Java Springboot · Angular
 
 *Estado: Análisis y diseño
 
