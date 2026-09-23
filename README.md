@@ -50,7 +50,7 @@ Actualmente se encuentra en fase de análisis y diseño, por lo que el trabajo s
 
 El repositorio contiene la configuración inicial del proyecto y la estructura proporcionada por las tecnologías seleccionadas. El objetivo es utilizar esta base para desarrollar posteriormente una solución organizada, escalable y orientada a las necesidades del sistema de historias clínicas.
 
-*Tecnologías iniciales: Java Springboot · Angular
+**Tecnologías iniciales:** Java Springboot · Angular
 
 *Estado: Análisis y diseño
 
